@@ -6,4 +6,4 @@
 - Zip replacement & hood replacement
 - Iron all the products
 
-![[Rakesh Shah - Dutys of tailor and advice to tailor.mp3]]
+https://soundcloud.com/vasanthkumar-rao-padukone/ops-daily-routine
