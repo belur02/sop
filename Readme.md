@@ -1,4 +1,4 @@
-## Additional [[Duties]] of The [[Tailor]]
+## Additional Duties of The Tailor
 
 <img src="https://i.pinimg.com/originals/1b/58/69/1b58694e8b7ad8abf9ca937687706e48.png" alt="Tailor" style= "float:left; width:235px; height:155px;" />
 
@@ -16,7 +16,7 @@
 - ಜಿಪ್ ಬದಲಿಸಿ  & ಹುಡ್ ಬದಲಿಸಿ 
 - ಇಸ್ತ್ರಿ ಮಾಡುವುದು
 
-https://github.com/belur02/sop/blob/master/Rakesh%20Shah%20-%20Dutys%20of%20tailor%20and%20advice%20to%20tailor.mp3
+http://github.com/belur02/sop/blob/master/Rakesh%20Shah%20-%20Dutys%20of%20tailor%20and%20advice%20to%20tailor.mp3
 
 ## Advice & duties of Asm/Dm
 
