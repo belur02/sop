@@ -1,1 +1,6 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-architect
+title: Venkatesh Rao
+description: Freethinker, a rationalist, scientific tempered political writer
+logo: ./image/avatar.jpg
+show_downloads: "true"
+google_analytics: [Your Google Analytics tracking ID]
