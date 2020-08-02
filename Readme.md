@@ -16,7 +16,7 @@
 - ಜಿಪ್ ಬದಲಿಸಿ  & ಹುಡ್ ಬದಲಿಸಿ 
 - ಇಸ್ತ್ರಿ ಮಾಡುವುದು
 
-http://github.com/belur02/sop/blob/master/Rakesh%20Shah%20-%20Dutys%20of%20tailor%20and%20advice%20to%20tailor.mp3
+http://www.github.com/belur02/sop/blob/master/Rakesh%20Shah%20-%20Dutys%20of%20tailor%20and%20advice%20to%20tailor.mp3
 
 ## Advice & duties of Asm/Dm
 
