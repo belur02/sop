@@ -18,7 +18,7 @@
 
 [Listen](http://www.github.com/belur02/sop/blob/master/Rakesh%20Shah%20-%20Dutys%20of%20tailor%20and%20advice%20to%20tailor.mp3)
 
-## Advice & duties of Asm/Dm(
+## Advice & duties of Asm/Dm
 
 - Duty is to perform better & better
 - duty is to observe salesman whether they are attending the customers or not
@@ -29,6 +29,7 @@
 - train nonperformance staff
 - duty is to understand the mistake done by salesman & teach them
 - duty is to understand requirements, your product and others store problem
+[Listen](https://github.com/belur02/sop/blob/master/Advice_to_Asm_and_Dm.wma)
 
 ## Advice to DM& salesman
 
@@ -38,7 +39,7 @@
 - Report to the manager about the communication you had with the customer 
 - DM’s main focus should be on stock & stock requirement, counter setting, dusting & dust cleaning
 - Listen to all the sop of all the departments
-
+[Listen](https://github.com/belur02/sop/blob/master/Advice_to_DM_and_Sales_man.wma)
 
 ## Advice to managers and Ops manager 
 - Kindly maintain the category sop & occasion according to the occasion according to the category.
@@ -48,12 +49,14 @@
 - After every sales you will advise fc’s to follow sop & explain the sop if he/she is not aware
 - Tackle all the issues according to the sop
 - Train all the salesman 10 times in a day
+[Listen](https://github.com/belur02/sop/blob/master/Advice_to_managers_and_operation_managers.wma)
 
 ## Art of selling to everybody 
 - No matter who, but your job is to sell any body & every body
 - Don’t judge whether they will buy or not
 - A/c guys, courier guys, mall office guys, carpenter anybody comes to store show them & tell would you like to see something.
 - Don’t feel bad to ask anybody walks in the store
+[Listen](https://github.com/belur02/sop/blob/master/How_we_can_sell_to_any_body.wma)
 
 ## Benefits of sop
 - All the designation/staffs in the store need to listen sop’s
@@ -75,6 +78,7 @@
 - Stock requested is not received every time from warehouse team, sending some other stock all this is a part of SHOWOFF
 - Understand the situation
 - Can you be a performer in this situation?  
+[Listen](https://github.com/belur02/sop/blob/master/Blaming_others_for_problems.wma)
 
 ## Blazers, suits & coats
 - Casuals wear, Formal wear, wedding or ethnic wear
@@ -86,10 +90,12 @@
 - Catalog sales can be done if customers have time 
 - Cross selling for wedding customer is very important
 - Approach for friends & family members
+[Listen](https://github.com/belur02/sop/blob/master/Blazers%2C_suits%2C_coats.wma)
 
 ## Boys counter advice 
 - Follow the category according to men’s 
 - We don’t have dhoti set for men’s, so for dhoti set, tie with shirt, bow with shirt, bandi shirt, jacket with shirt, shirt with t shirt, set category
+[Listen](https://github.com/belur02/sop/blob/master/Boys_counter.wma)
 
 ## Cashier observation book
 - Observe ops, SM, ASM, DM, FC, HK, security, csd, tailor
@@ -132,6 +138,7 @@
 - About alteration and exchange
 - Share the other location details
 - Thank you for shopping at showoff
+[Listen](
 
 ## Colors not available
 - If the customer complains about the not available of particular color
@@ -140,9 +147,9 @@
 - Sir any particular reason you are looking for this color
 - If the reason is strong chances of selling is less
 - If the reason is week chances of selling is more
+[Listen](
 
 ## Customer’s feedback book
-
 - To prove the fact that you are putting100% effort & hard work, so we need prove.
 - The prove will be in the form of customer feedback book
 - In the customer feedback book.
