@@ -23,6 +23,9 @@
 
 ## Advice & duties of Asm/Dm
 
+
+<img src="https://2.bp.blogspot.com/-ATPynwNR9MM/Uml3y7OMQBI/AAAAAAAABPA/JpX411M-Kk0/s1600/cmmi+do+better.png" alt="Tailor" style= "float:left; width:128px; height:128px;" />
+
 - Duty is to perform better & better
 - duty is to observe salesman whether they are attending the customers or not
 - duty is to take feedback from salesman
