@@ -149,6 +149,7 @@
 - Share the other location details
 - Thank you for shopping at showoff
 
+[Listen](https://github.com/belur02/sop/blob/master/Cashiers_scope_of_work.wma)
 
 ## Colors not available
 - If the customer complains about the not available of particular color
@@ -158,6 +159,7 @@
 - If the reason is strong chances of selling is less
 - If the reason is week chances of selling is more
 
+[Listen](
 
 ## Customer’s feedback book
 - To prove the fact that you are putting100% effort & hard work, so we need prove.
@@ -222,6 +224,8 @@ Note :-Any salesman who collect the maximum information will be rewarded in term
 - We have other stores nearby location
 - Example GIM JN NCS MM PM NBG
 
+[Listen](https://github.com/belur02/sop/blob/master/Customer_going_out_without_buying.wma)
+
 ## Customer not happy with our service 
 - If customer is gone from one counter to another counter & tell that the service is other counter was not good please don’t keep quite
 - Inform this manager through other salesman  
@@ -238,9 +242,13 @@ Note :-Any salesman who collect the maximum information will be rewarded in term
 - Deadline to return the damage product is 15 days 
 - Ops manager need to check  whether damages are kept separate with proper records 
 
+[Listen](https://github.com/belur02/sop/blob/master/Damaged_product_in_the_counter.wma)
+
 ## Dungaree
 - Short, long, skirt or capree 
 - Sizecolorankle or full lengthWaist (high, low, middle)fabricbudgetoccasion
+
+[Listen](https://github.com/belur02/sop/blob/master/Jump_suits_and_dungarees.wma)
 
 ## Duties of tailor 
 - Teach all the staff how to measure on every Tuesday
@@ -251,6 +259,8 @@ Note :-Any salesman who collect the maximum information will be rewarded in term
 - Change the buttons, zips if it is not proper
 - Iron all the products
 
+[Listen](https://github.com/belur02/sop/blob/master/Dutys_of_tailor_and_advice_to_tailor.wma)
+
 ## Everything has to be in cover
 - Put the special design cover for all the work products
 - Work products will damage the other products 
@@ -258,11 +268,15 @@ Note :-Any salesman who collect the maximum information will be rewarded in term
 - If the cover is damage replace don’t keep it separately
 - Always keep in cover for any reason
 
+[Listen](https://github.com/belur02/sop/blob/master/Everything_in_cover.wma)
+
 ## Girls counter advice 
 - Almost everything is similar to ladies, description according to audios 
 - Girls mostly on sets, short top sets jacket top sets, 
 - Baby frock, skirt top set, hot pant set.
 - Size 16 to 40 for sets
+
+[Listen](https://github.com/belur02/sop/blob/master/Girls_counter.wma)
 
 ## Handover customer one department to another department
 - After attending in the counter and satisfy in your department
@@ -271,6 +285,9 @@ Note :-Any salesman who collect the maximum information will be rewarded in term
 - After he is one of our top performing FC he will help you
 - Keep an eye on the customer You already satisfy the customer you should check 
 - whether the handover FC is making them satisfy
+
+[Listen](https://github.com/belur02/sop/blob/master/Handing_over_of_Customer_from_one_counter_to_another.wma)
+
 
 ## How do we handle sell more for exchange customer
 - Very important customer
@@ -286,6 +303,8 @@ Note :-Any salesman who collect the maximum information will be rewarded in term
 - we should sell more than the exchange product and do the cross selling and upselling explain
 - explain other department and do the handover process
 
+[Listen](https://github.com/belur02/sop/blob/master/How_to_handle_and_sell_more_to_Exchange_customers.wma)
+
 ## How to handle customer complaints 1
 - Receive the customer after customer explaining the complaints
 - Ask sorry for the inconvenience
@@ -297,6 +316,8 @@ Note :-Any salesman who collect the maximum information will be rewarded in term
 - HO will find the actual product and if the complaint is correct then HO will give the exchange
 - Send the product image to HO before sending and taking approval
 - Explain the product defect done by the customers and explain about it
+
+[Listen](https://github.com/belur02/sop/blob/master/How_to_handle_customer_complaints_1.wma)
 
 ## How to handle customerComplaints 2?
 - Call the ho team and explain the conversation between customer and manager
