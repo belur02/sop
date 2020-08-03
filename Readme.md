@@ -1,4 +1,5 @@
-### S.O.P. (Standard Operating Procedures)
+# S.O.P. (Standard Operating Procedures)
+---
 
 ## Additional Duties of The Tailor
 
