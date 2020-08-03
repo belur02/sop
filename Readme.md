@@ -424,6 +424,12 @@ Note :-Any salesman who collect the maximum information will be rewarded in term
 - If he is ok to not follow explain the categories available at Store
 - Any particular item the customer is looking for
 
+## ಜಸ್ಟ್ ಲುಕಿಂಗ್ ಕಸ್ಟಮರ್ 
+- ಗ್ರಾಹಕರನ್ನು ಸ್ವಾಗತಿಸಿ
+- ಸರ್ ತೊಂದರೆ ಇಲ್ಲ ಸರ್ ನಮ್ಮ ಅಂಗಡಿ ತುಂಬಾ ದೊಡ್ಡದಾಗಿದೆ ಮತ್ತು ನಮ್ಮಲ್ಲಿ ಸಾಕಷ್ಟು ಕಲೆಕ್ಷನ್ ( ಸಂಗ್ರಹ)ವಿದೆ ಆದ್ದರಿಂದ ನಿಮಗೆ ಇನ್ನೂ ಸೇಲ್ಸ್‌ಮ್ಯಾನ್ ಅಗತ್ಯವಿದ್ದರೆ ದಯವಿಟ್ಟು ಕರೀರಿ. 
+- ಅವರು ಹಿಂಬಾಲಿಕೆ ಹಿಡಿಸದಿದ್ದಲ್ಲಿ  ಅಂಗಡಿಯಲ್ಲಿ ಲಭ್ಯವಿರುವ  ಕ್ಯಾಟೆಗಾರಿ (ವರ್ಗ)ಗಳನ್ನು ವಿವರಿಸಿ.
+- ಯಾವುದೇ ಪರ್ಟಿಕ್ಯುಲರ್ (ನಿರ್ದಿಷ್ಟ) ವಸ್ತು ಹುಡುಕುತ್ತಿದ್ದರೆಯೇ  ವಿಚಾರಿಸಿ.
+
 ## Ladies Jacket
 - Ask the specific requirement
 - Short or long or trench coat
@@ -431,6 +437,13 @@ Note :-Any salesman who collect the maximum information will be rewarded in term
 - Wooden or non-wooded
 - Thick or thin or very thickcolorbudgetoccasion
 - And we can cross sell  according to the condition
+
+## ಲೇಡೀಸ್ ಜಾಕೆಟ್
+- ಸ್ಪೆಸಿಫಿಕ್ ರೈಕ್ವಇರೇಮೆಂಟ್ ( ನಿರ್ದಿಷ್ಟ ಅವಶ್ಯಕತೆಯನ್ನು ಕೇಳಿ
+- ಶಾರ್ಟ್ ಲಾಂಗ್ / ಟ್ರೆಂಚ್ ಕೋಟ್ ( ಸಣ್ಣ ಅಥವಾ ಉದ್ದ ಅಥವಾ ಕಂದಕ ಕೋಟ್)
+- ಕಾಟನ್ ಟೆಸ್ಲಾನ್ ವುಲ್ಲನ್ ಲೆಥರ್, ವೂಡಿ-ನಾನ್ ವುಡಿ  ( ಹತ್ತಿ, ಟೆಸ್ಲಾನ್, ಉಣ್ಣೆ, ಚರ್ಮರಹಿತ ಅಥವಾ ಚರ್ಮ)
+- ಥಿಕ್ ಥಿನ್ ವೆರಿ ಥಿನ್ ( ದಪ್ಪ ಅಥವಾ ತೆಳ್ಳಗಿನ ಅಥವಾ ತುಂಬಾ ದಪ್ಪ) → ಕಲರ್ (ಬಣ್ಣ) → ಬಜೆಟ್ →ಒಕೇಶನ್ ( ಸಂದರ್ಭ)
+ಮತ್ತು ನಾವು ಕಂಡೀಷನ್ ( ಷರತ್ತಿನ) ಪ್ರಕಾರ ಕ್ರಾಸ್ ಸೆಲ್ ( ಮಾರಾಟವನ್ನು) ದಾಟಬಹುದು.
 
 ## Ladies jeans
 - Basic, designer, semi basic, tor jeans, slim cut or boot cutsizecolorAnkle length or full lengthwaist (high, low, mid)Fabricbutton (2,3,4,5,6)budgetoccasion
@@ -473,6 +486,13 @@ Note :-Any salesman who collect the maximum information will be rewarded in term
 - Full sleeves or half sleeve or cap sleeve
 - long top, short top, crop top, neck if required
 - Plain, printed, checks, or floralsizecolorbudgetoccasion
+
+
+## ಲೇಡೀಸ್ ಟಾಪ್ಸ್
+- ಫ್ಯಾನ್ಸಿ, ಡಿಸೈನರ್, ಪಾರ್ಟಿ ವೇರ್ , ಎಲ್ಲಾ ಒಂದೇ
+- ಕ್ಯಾಶುಯಲ್ ವೇರ್ , ಡೈಲೀ ವೇರ್, ಆಫಿಸ್ ವೇರ್ , ಪಾರ್ಟಿ ವೇರ್,
+- ಫುಲ್ ಸ್ಲೀವ್ , ಹಾಲ್ಫ್ ಸ್ಲೀವ್ (ಪೂರ್ಣ ತೋಳುಗಳು ಅಥವಾ ಅರ್ಧ ತೋಳು) ಅಥವಾ ಕ್ಯಾಪ್ ಸ್ಲೀವ್,  ಲಾಂಗ್ ಟಾಪ್, ಶಾರ್ಟ್ ಟಾಪ್, ಕ್ರಾಪ್ ಟಾಪ್,
+- ಅಗತ್ಯವಿದ್ದರೆ ಪ್ಲೈನ್ , ಪ್ರಿಂಟೆಡ್ (ಮುದ್ರಿತ), ಚೆಕ್ಸ್ ಅಥವಾ ಫ್ಲೋರಲ್ (ಹೂವಿನ) → ಗಾತ್ರ → ಬಣ್ಣ → ಬಜೆಟ್ → ಒಕಾಯ್ಷನ್ (ಸಂದರ್ಭ)
 
 ## Manager & Asm Observation book
 - Only job of the manager is to observe fc’s & customer 
