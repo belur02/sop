@@ -23,9 +23,10 @@
 - ಇಸ್ತ್ರಿ ಮಾಡುವುದು
 
 [Listen](http://www.github.com/belur02/sop/blob/master/Rakesh%20Shah%20-%20Dutys%20of%20tailor%20and%20advice%20to%20tailor.mp3)
+
 ---
 ## Advice & duties of Asm/Dm
-
+---
 
 <img src="https://2.bp.blogspot.com/-ATPynwNR9MM/Uml3y7OMQBI/AAAAAAAABPA/JpX411M-Kk0/s1600/cmmi+do+better.png" alt="Tailor" style= "float:left; width:128px; height:128px;" />
 
