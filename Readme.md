@@ -13,6 +13,9 @@
 
 ## ದರ್ಜಿಯ ಹೆಚ್ಚುವರಿ ಡ್ಯೂಟಿ
 ---
+
+<img src="https://www.shareicon.net/data/2016/02/12/717974_people_512x512.png" alt="Tailor" style= "float:left; width:128px; height:128px;" />
+
 - ಪ್ರತಿದಿನ ಪರಿಶೀಲಿಸಿ & ಪ್ರತಿಯೊಂದು & ಪ್ರತಿ ಕೌಂಟರ್ ನಲ್ಲಿ ಡ್ಯಾಮೇಜ್ ಆದ ಉತ್ಪನ್ನವನ್ನು ಗುರುತಿಸಿ
 - ಸಡಿಲ ಅಥವಾ ಹಾನಿಗೊಳಗಾದ ಬಟನ್ ಪರಿಶೀಲಿಸಿ 
 - ಹೆಚ್ಚುವರಿ ಎಳೆಗಳನ್ನು & ಹೆಚ್ಚುವರಿ ದಾರಗಳನ್ನು ಕತ್ತರಿಸಿ 
@@ -20,7 +23,7 @@
 - ಇಸ್ತ್ರಿ ಮಾಡುವುದು
 
 [Listen](http://www.github.com/belur02/sop/blob/master/Rakesh%20Shah%20-%20Dutys%20of%20tailor%20and%20advice%20to%20tailor.mp3)
-
+---
 ## Advice & duties of Asm/Dm
 
 
