@@ -34,7 +34,7 @@
 
 <figure>
     <figcaption>Listen to the Podcast:</figcaption>
-    <audio controls src="/blob/master/Rakesh%20Shah%20-%20Dutys%20of%20tailor%20and%20advice%20to%20tailor.mp3">Your browser does not support the<code>audio</code> element.</audio>
+    <audio controls src="http://www.github.com/belur02/sop/blob/master/Rakesh%20Shah%20-%20Dutys%20of%20tailor%20and%20advice%20to%20tailor.mp3">Your browser does not support the<code>audio</code> element.</audio>
 </figure>
 
 [Download The Podcast](htblob/master/Rakesh%20Shah%20-%20Dutys%20of%20tailor%20and%20advice%20to%20tailor.mp3)
