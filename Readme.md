@@ -57,7 +57,7 @@
 
 <figure>
     <figcaption>Listen to the Podcast:</figcaption>
-    <audio controls src="https://github.com/belur02/sop/blob/master/Advice_to_Asm_and_Dm.wma">Your browser does not support the<code>audio</code> element.</audio>
+    <audio controls src="https://github.com/belur02/sop/raw/master/Advice_to_Asm_and_Dm.wma">Your browser does not support the<code>audio</code> element.</audio>
 </figure>
 
 [Listen To The Podcast](https://github.com/belur02/sop/blob/master/Advice_to_Asm_and_Dm.wma)
@@ -73,7 +73,7 @@
 
 <figure>
     <figcaption>Listen to the Podcast:</figcaption>
-    <audio controls src="https://github.com/belur02/sop/blob/master/Advice_to_DM_and_Sales_man.wma">Your browser does not support the<code>audio</code> element.</audio>
+    <audio controls src="https://github.com/belur02/sop/raw/master/Advice_to_DM_and_Sales_man.wma">Your browser does not support the<code>audio</code> element.</audio>
 </figure>
 
 [Listen](https://github.com/belur02/sop/blob/master/Advice_to_DM_and_Sales_man.wma)
@@ -89,7 +89,7 @@
 
 <figure>
     <figcaption>Listen to the Podcast:</figcaption>
-    <audio controls src="https://github.com/belur02/sop/blob/master/Advice_to_managers_and_operation_managers.wma">Your browser does not support the<code>audio</code> element.</audio>
+    <audio controls src="https://github.com/belur02/sop/raw/master/Advice_to_managers_and_operation_managers.wma">Your browser does not support the<code>audio</code> element.</audio>
 </figure>
 
 [Listen To The Podcast](https://github.com/belur02/sop/blob/master/Advice_to_managers_and_operation_managers.wma)
@@ -102,7 +102,7 @@
 
 <figure>
     <figcaption>Listen to the Podcast:</figcaption>
-    <audio controls src="https://github.com/belur02/sop/blob/master/How_we_can_sell_to_any_body.wma">Your browser does not support the<code>audio</code> element.</audio>
+    <audio controls src="https://github.com/belur02/sop/raw/master/How_we_can_sell_to_any_body.wma">Your browser does not support the<code>audio</code> element.</audio>
 </figure>
 
 [Listen To The Podcast](https://github.com/belur02/sop/blob/master/How_we_can_sell_to_any_body.wma)
@@ -130,7 +130,7 @@
 
 <figure>
     <figcaption>Listen to the Podcast:</figcaption>
-    <audio controls src="https://github.com/belur02/sop/blob/master/Blaming_others_for_problems.wma">Your browser does not support the<code>audio</code> element.</audio>
+    <audio controls src="https://github.com/belur02/sop/raw/master/Blaming_others_for_problems.wma">Your browser does not support the<code>audio</code> element.</audio>
 </figure>
 
 [Listen To The Podcast](https://github.com/belur02/sop/blob/master/Blaming_others_for_problems.wma)
@@ -148,7 +148,7 @@
 
 <figure>
     <figcaption>Listen to the Podcast:</figcaption>
-    <audio controls src="https://github.com/belur02/sop/blob/master/Blazers%2C_suits%2C_coats.wma">Your browser does not support the<code>audio</code> element.</audio>
+    <audio controls src="https://github.com/belur02/sop/raw/master/Blazers%2C_suits%2C_coats.wma">Your browser does not support the<code>audio</code> element.</audio>
 </figure>
 
 [Listen To The Podcast](https://github.com/belur02/sop/blob/master/Blazers%2C_suits%2C_coats.wma)
@@ -159,7 +159,7 @@
 
 <figure>
     <figcaption>Listen to the Podcast:</figcaption>
-    <audio controls src="https://github.com/belur02/sop/blob/master/Boys_counter.wma">Your browser does not support the<code>audio</code> element.</audio>
+    <audio controls src="https://github.com/belur02/sop/raw/master/Boys_counter.wma">Your browser does not support the<code>audio</code> element.</audio>
 </figure>
 
 [Listen To The Podcast](https://github.com/belur02/sop/blob/master/Boys_counter.wma)
@@ -208,7 +208,7 @@
 
 <figure>
     <figcaption>Listen to the Podcast:</figcaption>
-    <audio controls src="https://github.com/belur02/sop/blob/master/Cashiers_scope_of_work.wma">Your browser does not support the<code>audio</code> element.</audio>
+    <audio controls src="https://github.com/belur02/sop/raw/master/Cashiers_scope_of_work.wma">Your browser does not support the<code>audio</code> element.</audio>
 </figure>
 
 [Listen To The Podcast](https://github.com/belur02/sop/blob/master/Cashiers_scope_of_work.wma)
@@ -223,7 +223,7 @@
 
 <figure>
     <figcaption>Listen to the Podcast:</figcaption>
-    <audio controls src="https://github.com/belur02/sop/blob/master/Advice_to_Asm_and_Dm.wma">Your browser does not support the<code>audio</code> element.</audio>
+    <audio controls src="https://github.com/belur02/sop/raw/master/Advice_to_Asm_and_Dm.wma">Your browser does not support the<code>audio</code> element.</audio>
 </figure>
 
 [Listen To The Podcast](
@@ -293,7 +293,7 @@ Note :-Any salesman who collect the maximum information will be rewarded in term
 
 <figure>
     <figcaption>Listen to the Podcast:</figcaption>
-    <audio controls src="https://github.com/belur02/sop/blob/master/Customer_going_out_without_buying.wma">Your browser does not support the<code>audio</code> element.</audio>
+    <audio controls src="https://github.com/belur02/sop/raw/master/Customer_going_out_without_buying.wma">Your browser does not support the<code>audio</code> element.</audio>
 </figure>
 
 [Listen](https://github.com/belur02/sop/blob/master/Customer_going_out_without_buying.wma)
@@ -316,7 +316,7 @@ Note :-Any salesman who collect the maximum information will be rewarded in term
 
 <figure>
     <figcaption>Listen to the Podcast:</figcaption>
-    <audio controls src="https://github.com/belur02/sop/blob/master/Damaged_product_in_the_counter.wma">Your browser does not support the<code>audio</code> element.</audio>
+    <audio controls src="https://github.com/belur02/sop/raw/master/Damaged_product_in_the_counter.wma">Your browser does not support the<code>audio</code> element.</audio>
 </figure>
 
 [Listen](https://github.com/belur02/sop/blob/master/Damaged_product_in_the_counter.wma)
@@ -327,7 +327,7 @@ Note :-Any salesman who collect the maximum information will be rewarded in term
 
 <figure>
     <figcaption>Listen to the Podcast:</figcaption>
-    <audio controls src="https://github.com/belur02/sop/blob/master/Jump_suits_and_dungarees.wma">Your browser does not support the<code>audio</code> element.</audio>
+    <audio controls src="https://github.com/belur02/sop/raw/master/Jump_suits_and_dungarees.wma">Your browser does not support the<code>audio</code> element.</audio>
 </figure>
 
 [Listen](https://github.com/belur02/sop/blob/master/Jump_suits_and_dungarees.wma)
@@ -343,7 +343,7 @@ Note :-Any salesman who collect the maximum information will be rewarded in term
 
 <figure>
     <figcaption>Listen to the Podcast:</figcaption>
-    <audio controls src="https://github.com/belur02/sop/blob/master/Dutys_of_tailor_and_advice_to_tailor.wma">Your browser does not support the<code>audio</code> element.</audio>
+    <audio controls src="https://github.com/belur02/sop/raw/master/Dutys_of_tailor_and_advice_to_tailor.wma">Your browser does not support the<code>audio</code> element.</audio>
 </figure>
 
 [Listen](https://github.com/belur02/sop/blob/master/Dutys_of_tailor_and_advice_to_tailor.wma)
@@ -357,7 +357,7 @@ Note :-Any salesman who collect the maximum information will be rewarded in term
 
 <figure>
     <figcaption>Listen to the Podcast:</figcaption>
-    <audio controls src="https://github.com/belur02/sop/blob/master/Everything_in_cover.wma">Your browser does not support the<code>audio</code> element.</audio>
+    <audio controls src="https://github.com/belur02/sop/raw/master/Everything_in_cover.wma">Your browser does not support the<code>audio</code> element.</audio>
 </figure>
 
 [Listen](https://github.com/belur02/sop/blob/master/Everything_in_cover.wma)
@@ -370,7 +370,7 @@ Note :-Any salesman who collect the maximum information will be rewarded in term
 
 <figure>
     <figcaption>Listen to the Podcast:</figcaption>
-    <audio controls src="https://github.com/belur02/sop/blob/master/Girls_counter.wma">Your browser does not support the<code>audio</code> element.</audio>
+    <audio controls src="https://github.com/belur02/sop/raw/master/Girls_counter.wma">Your browser does not support the<code>audio</code> element.</audio>
 </figure>
 
 [Listen](https://github.com/belur02/sop/blob/master/Girls_counter.wma)
@@ -385,7 +385,7 @@ Note :-Any salesman who collect the maximum information will be rewarded in term
 
 <figure>
     <figcaption>Listen to the Podcast:</figcaption>
-    <audio controls src="https://github.com/belur02/sop/blob/master/Handing_over_of_Customer_from_one_counter_to_another.wma">Your browser does not support the<code>audio</code> element.</audio>
+    <audio controls src="https://github.com/belur02/sop/raw/master/Handing_over_of_Customer_from_one_counter_to_another.wma">Your browser does not support the<code>audio</code> element.</audio>
 </figure>
 
 [Listen](https://github.com/belur02/sop/blob/master/Handing_over_of_Customer_from_one_counter_to_another.wma)
@@ -407,7 +407,7 @@ Note :-Any salesman who collect the maximum information will be rewarded in term
 
 <figure>
     <figcaption>Listen to the Podcast:</figcaption>
-    <audio controls src="https://github.com/belur02/sop/blob/master/How_to_handle_and_sell_more_to_Exchange_customers.wma">Your browser does not support the<code>audio</code> element.</audio>
+    <audio controls src="https://github.com/belur02/sop/raw/master/How_to_handle_and_sell_more_to_Exchange_customers.wma">Your browser does not support the<code>audio</code> element.</audio>
 </figure>
 
 [Listen](https://github.com/belur02/sop/blob/master/How_to_handle_and_sell_more_to_Exchange_customers.wma)
@@ -426,7 +426,7 @@ Note :-Any salesman who collect the maximum information will be rewarded in term
 
 <figure>
     <figcaption>Listen to the Podcast:</figcaption>
-    <audio controls src="https://github.com/belur02/sop/blob/master/How_to_handle_customer_complaints_1.wma">Your browser does not support the<code>audio</code> element.</audio>
+    <audio controls src="https://github.com/belur02/sop/raw/master/How_to_handle_customer_complaints_1.wma">Your browser does not support the<code>audio</code> element.</audio>
 </figure>
 
 [Listen](https://github.com/belur02/sop/blob/master/How_to_handle_customer_complaints_1.wma)
