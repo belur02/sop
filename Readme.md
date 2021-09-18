@@ -34,13 +34,13 @@
 
 <figure>
     <figcaption>Listen to the Podcast:</figcaption>
-    <audio controls src="http://www.github.com/belur02/sop/blob/master/Rakesh%20Shah%20-%20Dutys%20of%20tailor%20and%20advice%20to%20tailor.mp3">
+    <audio controls src="/blob/master/Rakesh%20Shah%20-%20Dutys%20of%20tailor%20and%20advice%20to%20tailor.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
 </figure>
 
-[Download The Podcast](http://www.github.com/belur02/sop/blob/master/Rakesh%20Shah%20-%20Dutys%20of%20tailor%20and%20advice%20to%20tailor.mp3)
+[Download The Podcast](htblob/master/Rakesh%20Shah%20-%20Dutys%20of%20tailor%20and%20advice%20to%20tailor.mp3)
 
 ---
 ## Advice & duties of Asm/Dm
