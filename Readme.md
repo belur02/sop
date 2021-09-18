@@ -37,7 +37,7 @@
     <audio controls src="https://github.com/belur02/sop/raw/master/Rakesh%20Shah%20-%20Dutys%20of%20tailor%20and%20advice%20to%20tailor.mp3">Your browser does not support the<code>audio</code> element.</audio>
 </figure>
 
-[Download The Podcast](htblob/master/Rakesh%20Shah%20-%20Dutys%20of%20tailor%20and%20advice%20to%20tailor.mp3)
+//[Download The Podcast](htblob/master/Rakesh%20Shah%20-%20Dutys%20of%20tailor%20and%20advice%20to%20tailor.mp3)
 
 ---
 ## Advice & duties of Asm/Dm
@@ -55,6 +55,11 @@
 - duty is to understand the mistake done by salesman & teach them
 - duty is to understand requirements, your product and others store problem
 
+<figure>
+    <figcaption>Listen to the Podcast:</figcaption>
+    <audio controls src="https://github.com/belur02/sop/blob/master/Advice_to_Asm_and_Dm.wma">Your browser does not support the<code>audio</code> element.</audio>
+</figure>
+
 [Listen To The Podcast](https://github.com/belur02/sop/blob/master/Advice_to_Asm_and_Dm.wma)
 
 ## Advice to DM& salesman
@@ -65,6 +70,11 @@
 - Report to the manager about the communication you had with the customer 
 - DM’s main focus should be on stock & stock requirement, counter setting, dusting & dust cleaning
 - Listen to all the sop of all the departments
+
+<figure>
+    <figcaption>Listen to the Podcast:</figcaption>
+    <audio controls src="https://github.com/belur02/sop/blob/master/Advice_to_DM_and_Sales_man.wma">Your browser does not support the<code>audio</code> element.</audio>
+</figure>
 
 [Listen](https://github.com/belur02/sop/blob/master/Advice_to_DM_and_Sales_man.wma)
 
@@ -77,6 +87,11 @@
 - Tackle all the issues according to the sop
 - Train all the salesman 10 times in a day
 
+<figure>
+    <figcaption>Listen to the Podcast:</figcaption>
+    <audio controls src="https://github.com/belur02/sop/blob/master/Advice_to_managers_and_operation_managers.wma">Your browser does not support the<code>audio</code> element.</audio>
+</figure>
+
 [Listen To The Podcast](https://github.com/belur02/sop/blob/master/Advice_to_managers_and_operation_managers.wma)
 
 ## Art of selling to everybody 
@@ -84,6 +99,11 @@
 - Don’t judge whether they will buy or not
 - A/c guys, courier guys, mall office guys, carpenter anybody comes to store show them & tell would you like to see something.
 - Don’t feel bad to ask anybody walks in the store
+
+<figure>
+    <figcaption>Listen to the Podcast:</figcaption>
+    <audio controls src="https://github.com/belur02/sop/blob/master/How_we_can_sell_to_any_body.wma">Your browser does not support the<code>audio</code> element.</audio>
+</figure>
 
 [Listen To The Podcast](https://github.com/belur02/sop/blob/master/How_we_can_sell_to_any_body.wma)
 
@@ -108,6 +128,11 @@
 - Understand the situation
 - Can you be a performer in this situation?  
 
+<figure>
+    <figcaption>Listen to the Podcast:</figcaption>
+    <audio controls src="https://github.com/belur02/sop/blob/master/Blaming_others_for_problems.wma">Your browser does not support the<code>audio</code> element.</audio>
+</figure>
+
 [Listen To The Podcast](https://github.com/belur02/sop/blob/master/Blaming_others_for_problems.wma)
 
 ## Blazers, suits & coats
@@ -121,11 +146,21 @@
 - Cross selling for wedding customer is very important
 - Approach for friends & family members
 
+<figure>
+    <figcaption>Listen to the Podcast:</figcaption>
+    <audio controls src="https://github.com/belur02/sop/blob/master/Blazers%2C_suits%2C_coats.wma">Your browser does not support the<code>audio</code> element.</audio>
+</figure>
+
 [Listen To The Podcast](https://github.com/belur02/sop/blob/master/Blazers%2C_suits%2C_coats.wma)
 
 ## Boys counter advice 
 - Follow the category according to men’s 
 - We don’t have dhoti set for men’s, so for dhoti set, tie with shirt, bow with shirt, bandi shirt, jacket with shirt, shirt with t shirt, set category
+
+<figure>
+    <figcaption>Listen to the Podcast:</figcaption>
+    <audio controls src="https://github.com/belur02/sop/blob/master/Boys_counter.wma">Your browser does not support the<code>audio</code> element.</audio>
+</figure>
 
 [Listen To The Podcast](https://github.com/belur02/sop/blob/master/Boys_counter.wma)
 
@@ -171,6 +206,11 @@
 - Share the other location details
 - Thank you for shopping at showoff
 
+<figure>
+    <figcaption>Listen to the Podcast:</figcaption>
+    <audio controls src="https://github.com/belur02/sop/blob/master/Cashiers_scope_of_work.wma">Your browser does not support the<code>audio</code> element.</audio>
+</figure>
+
 [Listen To The Podcast](https://github.com/belur02/sop/blob/master/Cashiers_scope_of_work.wma)
 
 ## Colors not available
@@ -180,6 +220,11 @@
 - Sir any particular reason you are looking for this color
 - If the reason is strong chances of selling is less
 - If the reason is week chances of selling is more
+
+<figure>
+    <figcaption>Listen to the Podcast:</figcaption>
+    <audio controls src="https://github.com/belur02/sop/blob/master/Advice_to_Asm_and_Dm.wma">Your browser does not support the<code>audio</code> element.</audio>
+</figure>
 
 [Listen To The Podcast](
 
@@ -246,6 +291,11 @@ Note :-Any salesman who collect the maximum information will be rewarded in term
 - We have other stores nearby location
 - Example GIM JN NCS MM PM NBG
 
+<figure>
+    <figcaption>Listen to the Podcast:</figcaption>
+    <audio controls src="https://github.com/belur02/sop/blob/master/Customer_going_out_without_buying.wma">Your browser does not support the<code>audio</code> element.</audio>
+</figure>
+
 [Listen](https://github.com/belur02/sop/blob/master/Customer_going_out_without_buying.wma)
 
 ## Customer not happy with our service 
@@ -264,11 +314,21 @@ Note :-Any salesman who collect the maximum information will be rewarded in term
 - Deadline to return the damage product is 15 days 
 - Ops manager need to check  whether damages are kept separate with proper records 
 
+<figure>
+    <figcaption>Listen to the Podcast:</figcaption>
+    <audio controls src="https://github.com/belur02/sop/blob/master/Damaged_product_in_the_counter.wma">Your browser does not support the<code>audio</code> element.</audio>
+</figure>
+
 [Listen](https://github.com/belur02/sop/blob/master/Damaged_product_in_the_counter.wma)
 
 ## Dungaree
 - Short, long, skirt or capree 
 - Sizecolorankle or full lengthWaist (high, low, middle)fabricbudgetoccasion
+
+<figure>
+    <figcaption>Listen to the Podcast:</figcaption>
+    <audio controls src="https://github.com/belur02/sop/blob/master/Jump_suits_and_dungarees.wma">Your browser does not support the<code>audio</code> element.</audio>
+</figure>
 
 [Listen](https://github.com/belur02/sop/blob/master/Jump_suits_and_dungarees.wma)
 
@@ -281,6 +341,11 @@ Note :-Any salesman who collect the maximum information will be rewarded in term
 - Change the buttons, zips if it is not proper
 - Iron all the products
 
+<figure>
+    <figcaption>Listen to the Podcast:</figcaption>
+    <audio controls src="https://github.com/belur02/sop/blob/master/Dutys_of_tailor_and_advice_to_tailor.wma">Your browser does not support the<code>audio</code> element.</audio>
+</figure>
+
 [Listen](https://github.com/belur02/sop/blob/master/Dutys_of_tailor_and_advice_to_tailor.wma)
 
 ## Everything has to be in cover
@@ -290,6 +355,11 @@ Note :-Any salesman who collect the maximum information will be rewarded in term
 - If the cover is damage replace don’t keep it separately
 - Always keep in cover for any reason
 
+<figure>
+    <figcaption>Listen to the Podcast:</figcaption>
+    <audio controls src="https://github.com/belur02/sop/blob/master/Everything_in_cover.wma">Your browser does not support the<code>audio</code> element.</audio>
+</figure>
+
 [Listen](https://github.com/belur02/sop/blob/master/Everything_in_cover.wma)
 
 ## Girls counter advice 
@@ -297,6 +367,11 @@ Note :-Any salesman who collect the maximum information will be rewarded in term
 - Girls mostly on sets, short top sets jacket top sets, 
 - Baby frock, skirt top set, hot pant set.
 - Size 16 to 40 for sets
+
+<figure>
+    <figcaption>Listen to the Podcast:</figcaption>
+    <audio controls src="https://github.com/belur02/sop/blob/master/Girls_counter.wma">Your browser does not support the<code>audio</code> element.</audio>
+</figure>
 
 [Listen](https://github.com/belur02/sop/blob/master/Girls_counter.wma)
 
@@ -307,6 +382,11 @@ Note :-Any salesman who collect the maximum information will be rewarded in term
 - After he is one of our top performing FC he will help you
 - Keep an eye on the customer You already satisfy the customer you should check 
 - whether the handover FC is making them satisfy
+
+<figure>
+    <figcaption>Listen to the Podcast:</figcaption>
+    <audio controls src="https://github.com/belur02/sop/blob/master/Handing_over_of_Customer_from_one_counter_to_another.wma">Your browser does not support the<code>audio</code> element.</audio>
+</figure>
 
 [Listen](https://github.com/belur02/sop/blob/master/Handing_over_of_Customer_from_one_counter_to_another.wma)
 
@@ -325,6 +405,11 @@ Note :-Any salesman who collect the maximum information will be rewarded in term
 - we should sell more than the exchange product and do the cross selling and upselling explain
 - explain other department and do the handover process
 
+<figure>
+    <figcaption>Listen to the Podcast:</figcaption>
+    <audio controls src="https://github.com/belur02/sop/blob/master/How_to_handle_and_sell_more_to_Exchange_customers.wma">Your browser does not support the<code>audio</code> element.</audio>
+</figure>
+
 [Listen](https://github.com/belur02/sop/blob/master/How_to_handle_and_sell_more_to_Exchange_customers.wma)
 
 ## How to handle customer complaints 1
@@ -338,6 +423,11 @@ Note :-Any salesman who collect the maximum information will be rewarded in term
 - HO will find the actual product and if the complaint is correct then HO will give the exchange
 - Send the product image to HO before sending and taking approval
 - Explain the product defect done by the customers and explain about it
+
+<figure>
+    <figcaption>Listen to the Podcast:</figcaption>
+    <audio controls src="https://github.com/belur02/sop/blob/master/How_to_handle_customer_complaints_1.wma">Your browser does not support the<code>audio</code> element.</audio>
+</figure>
 
 [Listen](https://github.com/belur02/sop/blob/master/How_to_handle_customer_complaints_1.wma)
 
