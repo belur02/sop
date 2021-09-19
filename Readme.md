@@ -3,7 +3,7 @@
 
 ## Additional Duties of The Tailor
 
-<img src="https://i.pinimg.com/originals/1b/58/69/1b58694e8b7ad8abf9ca937687706e48.png" alt="Tailor" style= "float:left; width:128px; height:128px; padding-right: 50px;" />
+<img src="https://i.pinimg.com/originals/1b/58/69/1b58694e8b7ad8abf9ca937687706e48.png" alt="Tailor" style= "float:left; width:128px; height:128px; padding: 150px;" />
 
 - Every day check & identify the damage product from each & every counter
 - Check for button Is loose or damaged
