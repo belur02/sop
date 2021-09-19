@@ -3,7 +3,7 @@
 
 ## Additional Duties of The Tailor
 
-<img src="https://i.pinimg.com/originals/1b/58/69/1b58694e8b7ad8abf9ca937687706e48.png" alt="Tailor" style= "float:left; width:128px; height:128px; padding-right: 50px;" />
+<img src="https://i.pinimg.com/originals/1b/58/69/1b58694e8b7ad8abf9ca937687706e48.png" alt="Tailor" style= "float:left; width:128px; height:128px; padding-right: 25px;" />
 
 - Every day check & identify the damage product from each & every counter
 - Check for button Is loose or damaged
@@ -14,7 +14,7 @@
 ## ದರ್ಜಿಯ ಹೆಚ್ಚುವರಿ ಡ್ಯೂಟಿ
 ---
 
-<img src="https://www.shareicon.net/data/2016/02/12/717974_people_512x512.png" alt="Tailor" style= "float:left; width:128px; height:128px;" />
+<img src="https://www.shareicon.net/data/2016/02/12/717974_people_512x512.png" alt="Tailor" style= "float:left; width:128px; height:128px; padding-right: 25px;" />
 
 - ಪ್ರತಿದಿನ ಪರಿಶೀಲಿಸಿ & ಪ್ರತಿಯೊಂದು & ಪ್ರತಿ ಕೌಂಟರ್ ನಲ್ಲಿ ಡ್ಯಾಮೇಜ್ ಆದ ಉತ್ಪನ್ನವನ್ನು ಗುರುತಿಸಿ
 - ಸಡಿಲ ಅಥವಾ ಹಾನಿಗೊಳಗಾದ ಬಟನ್ ಪರಿಶೀಲಿಸಿ 
@@ -43,7 +43,7 @@
 ## Advice & duties of Asm/Dm
 ---
 
-<img src="https://2.bp.blogspot.com/-ATPynwNR9MM/Uml3y7OMQBI/AAAAAAAABPA/JpX411M-Kk0/s1600/cmmi+do+better.png" alt="Tailor" style= "float:left; width:128px; height:128px;" />
+<img src="https://2.bp.blogspot.com/-ATPynwNR9MM/Uml3y7OMQBI/AAAAAAAABPA/JpX411M-Kk0/s1600/cmmi+do+better.png" alt="Tailor" style= "float:left; width:128px; height:128px; padding-right: 25px;" />
 
 - Duty is to perform better & better
 - duty is to observe salesman whether they are attending the customers or not
