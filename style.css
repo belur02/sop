@@ -807,5 +807,5 @@ button:hover::before, .button:hover::before {
 /*# sourceMappingURL=style.css.map */
 img {
   background-color: cyan;
-  padding: 10px 10px 10px 10px;
+  padding: 10px 10px 10px 30px;
 }
