@@ -661,7 +661,8 @@ button:hover::before, .button:hover::before {
         grid-template-columns: 2fr 1fr 1fr 3fr;
     -ms-grid-rows: 1fr auto;
         grid-template-rows: 1fr auto;
-        grid-template-areas: "logo links1 links2 cta" "social links1 links2 copyright";
+        grid-template-areas: "logo links1 links2 cta"
+ "social links1 links2 copyright";
     gap: 1rem;
     justify-items: start;
   }
@@ -804,3 +805,7 @@ button:hover::before, .button:hover::before {
   }
 }
 /*# sourceMappingURL=style.css.map */
+h3 {
+  background-color: cyan;
+  padding: 10px 10px 10px 10px;
+}
