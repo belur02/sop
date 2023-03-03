@@ -57,7 +57,7 @@
 
 <figure>
     <figcaption>Listen to the Podcast:</figcaption>
-    <audio controls source src="https://github.com/belur02/sop/raw/master/Advice_to_Asm_and_Dm.wma">Your browser does not support the audio element.</audio>
+    <audio controls> <source src="https://github.com/belur02/sop/raw/master/Advice_to_Asm_and_Dm.wma" type="audio/mpeg">Your browser does not support the audio element.</audio>
 </figure>
 
 [Listen To The Podcast](https://github.com/belur02/sop/blob/master/Advice_to_Asm_and_Dm.wma)
