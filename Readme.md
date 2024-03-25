@@ -6,10 +6,8 @@
 <img src="https://i.pinimg.com/originals/1b/58/69/1b58694e8b7ad8abf9ca937687706e48.png" alt="Tailor" style= "float:left; width:128px; height:128px; padding-right: 25px;" />
 
 | ![Alt Text](https://ia801809.us.archive.org/22/items/MS_Clipart_Collection_SVG/apparel,baby_clothes,clothes,dressmakers,females,grandmothers,households,needlework,people_at_work,persons,pin_cushions,pincushions,pins,senior_citizens,seniors,sewing,sewing_needle,sewing_needles,women,MC900154890.svg "Tailor Sewing") | ![Alt Text](https://ia801809.us.archive.org/22/items/MS_Clipart_Collection_SVG/apparel,clothes,dress_forms,households,industry,jackets,measuring,measuring_tapes,men,occupations,persons,sewing,suits,tailors,MC900357361.svg "Tailor at Work") | ![Alt Text](https://ia801809.us.archive.org/22/items/MS_Clipart_Collection_SVG/coats,household,jackets,seasons,snowflakes,sports,winter,protective_clothing,hoods,warm,MC900053582.svg "Tailor Working") |
-| ------------- |:-------------:| -----:|
-| Every day check & identify the damage product from each & every counter      | Check for button Is loose or damaged | Trimming the extra treads & excess material |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| :-------------: | :-------------: | :-----: |
+| Every day check & identify the damage product from each & every counter    |    Check for button Is loose or damaged    |    Trimming the extra treads & excess material    |
 - Every day check & identify the damage product from each & every counter
 - Check for button Is loose or damaged
 - Trimming the extra treads & excess material
